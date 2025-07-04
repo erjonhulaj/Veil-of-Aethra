@@ -69,3 +69,13 @@ Depending on your actions, you unlock:
 ## 🙌 Author
 
 Developed by **Erjon Hulaj**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+You must include attribution to **Erjon Hulaj** in any distribution or derivative work.
+
+See [LICENSE](LICENSE) for details.
+
