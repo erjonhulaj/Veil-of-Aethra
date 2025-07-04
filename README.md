@@ -74,7 +74,7 @@ You can download pre-built packages for your operating system:
 |----------|----------|
 | 🪟 Windows | [Download veil_of_aethra_windows.zip](https://github.com/erjonhulaj/Veil-of-Aethra/releases/download/v1.0.0/veil_of_aethra_windows.zip) |
 | 🍎 macOS   | [Download veil_of_aethra_mac.zip](https://github.com/erjonhulaj/Veil-of-Aethra/releases/download/v1.0.0/veil_of_aethra_mac.zip) |
-| 🐧 Linux   | [Download veil_of_aethra_linux.zip](https://github.com/erjonhulaj/Veil-of-Aethra/releases/download/v1.0.0/veil_of_aethra_mac.zip) |
+| 🐧 Linux   | [Download veil_of_aethra_linux.zip](https://github.com/erjonhulaj/Veil-of-Aethra/releases/download/v1.0.0/veil_of_aethra_linux.zip) |
 
 ---
 
