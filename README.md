@@ -66,6 +66,50 @@ Depending on your actions, you unlock:
 
 ---
 
+## 🚀 Download & Installation
+
+You can download pre-built packages for your operating system:
+
+| Platform | Download |
+|---|---|
+| 🪟 Windows | [Download veil_of_aethra_windows.zip](https://github.com/<DEIN BENUTZERNAME>/veil-of-aethra/releases/latest) |
+| 🍎 macOS | [Download veil_of_aethra_mac.zip](https://github.com/<DEIN BENUTZERNAME>/veil-of-aethra/releases/latest) |
+| 🐧 Linux | [Download veil_of_aethra_linux.zip](https://github.com/<DEIN BENUTZERNAME>/veil-of-aethra/releases/latest) |
+
+---
+
+### Windows
+
+1. Download the ZIP.
+2. Extract it.
+3. Double-click `VeilOfAethra.exe` to start.
+
+---
+
+### macOS
+
+1. Download the ZIP.
+2. Extract it.
+3. In Terminal:
+   ```bash
+   chmod +x VeilOfAethra
+   ./VeilOfAethra
+
+   ### macOS
+
+---
+
+### Linux
+
+1. Download the ZIP.
+2. Extract it.
+3. In Terminal:
+   ```
+   chmod +x VeilOfAethra
+   ./VeilOfAethra
+
+---
+
 ## 🙌 Author
 
 Developed by **Erjon Hulaj**
