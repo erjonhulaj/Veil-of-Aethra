@@ -5,6 +5,12 @@ As a Seeker touched by the Veil, you must recover lost fragments to prevent obli
 
 ---
 
+## 🎬 Demo
+
+![TermKit Demo](assets/veilofaethra-demo.gif)
+
+---
+
 ## 🎮 Features
 
 - ✨ **Rich Narrative**
