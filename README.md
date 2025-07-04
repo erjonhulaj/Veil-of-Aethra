@@ -95,8 +95,6 @@ You can download pre-built packages for your operating system:
    chmod +x VeilOfAethra
    ./VeilOfAethra
 
-   ### macOS
-
 ---
 
 ### Linux
